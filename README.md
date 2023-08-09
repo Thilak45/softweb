@@ -101,16 +101,21 @@ Publish the website in the given URL.
 
 ## OUTPUT:
 output1
-![out1](https://github.com/Thilak45/productcompanywebsite/assets/138849161/31f8a2c2-bfca-4831-8500-c8e6016a6698)
+![out1](https://github.com/Thilak45/softweb/assets/138849161/b1a640dd-4ace-4641-8bba-ff2b9164e455)
+
 
 output2
-![out2](https://github.com/Thilak45/productcompanywebsite/assets/138849161/b21c8e57-b7a0-4a9d-b15f-9011ecd8ec3f)
+![out2](https://github.com/Thilak45/softweb/assets/138849161/13782333-7858-4ef8-bc8d-1bfcec7e622d)
+
 
 output3
-![out3](https://github.com/Thilak45/productcompanywebsite/assets/138849161/cd8d6605-94ec-48fa-aa5e-3382d7ae2d1c)
+![out3](https://github.com/Thilak45/softweb/assets/138849161/29ab994f-ef47-4ced-8c84-c08bbce4ceb8)
+
+
 
 output4
-![out4](https://github.com/Thilak45/productcompanywebsite/assets/138849161/4f77fe06-5b71-4fcb-87f9-1d48ed26e6ec)
+
+![out4](https://github.com/Thilak45/softweb/assets/138849161/42e5098a-9cf3-44b7-b8b2-05bf7aa19a4c)
 
 
 
