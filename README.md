@@ -100,13 +100,18 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
-![output](out1.png)
+output1
+![out1](https://github.com/Thilak45/productcompanywebsite/assets/138849161/31f8a2c2-bfca-4831-8500-c8e6016a6698)
 
-![output](out2.png)
+output2
+![out2](https://github.com/Thilak45/productcompanywebsite/assets/138849161/b21c8e57-b7a0-4a9d-b15f-9011ecd8ec3f)
 
-![output](out3.png)
+output3
+![out3](https://github.com/Thilak45/productcompanywebsite/assets/138849161/cd8d6605-94ec-48fa-aa5e-3382d7ae2d1c)
 
-![output](out4.png)
+output4
+![out4](https://github.com/Thilak45/productcompanywebsite/assets/138849161/4f77fe06-5b71-4fcb-87f9-1d48ed26e6ec)
+
 
 
 
